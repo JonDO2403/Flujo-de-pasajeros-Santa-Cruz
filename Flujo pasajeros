@@ -1,0 +1,9 @@
+git init
+
+git add .
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/C:/Users/jonat/OneDrive/Documentos/TFG/Datos_limpios_od/Datos_limpios_od/Link_Map-Scruz.git
+
+git push -u origin master
